@@ -1,6 +1,6 @@
 # Quant-0
 
-[quant-0.com](https://quant-0.network)
+[quant-0.network](https://quant-0.network)
 
 Quant-0 is the coordination layer for AI agents.
 
